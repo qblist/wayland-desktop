@@ -22,7 +22,7 @@ SLOT="0"
 
 DEPEND="
 	dev-libs/wayland
-	gui-libs/gtk-layer-shell
+	x11-libs/gdk-pixbuf
 "
 RDEPEND="${DEPEND}"
 BDEPEND="
